@@ -1,3 +1,4 @@
+Fork practice
 function addToCart() {
     var specification1 = document.getElementById('specification1').textContent;
     var cartItems = document.getElementById('cart-items');
